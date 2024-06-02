@@ -28,12 +28,7 @@ Here are some ideas to get you started:
 Hello, I'm Fatima Zohra. I am passionate about applying artificial intelligence, particularly in the healthcare sector.
 
 <!-- Adding a collapse section -->
-<details>
-<summary>My top THINGS-TO-RANK</summary>
 
-YOUR TABLE
-
-</details>
 
 <!-- Adding a quote -->
 ---

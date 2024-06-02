@@ -25,14 +25,7 @@ Here are some ideas to get you started:
 
 <!-- Adding a table -->
 ## About me
-
-Hi, I'm Fatima Zohra. I am a young female interested in the application of artificial intelligence, specially in the field of healthcare.
-
-| Languages | Hobbies |
-|-----:|---------------|
-|     1. Arabic|               |
-|     2. French|               |
-|     3. English|               |
+Hello, I'm Fatima Zohra. I am passionate about applying artificial intelligence, particularly in the healthcare sector.
 
 <!-- Adding a collapse section -->
 <details>

@@ -44,6 +44,6 @@ YOUR TABLE
 
 <!-- Adding a quote -->
 ---
-> Be both, CALM AND ACTIVE. I know you cant focus for a long time, so, get up or go take a nap and then comes back
+> 
 
 — FZ Moadine
